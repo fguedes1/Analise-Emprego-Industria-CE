@@ -6,4 +6,5 @@ O projeto constituiu em uma análise de dados do mercado de trabalho formal acer
 - O setor (indústria calçadista) emprega mais homens ou mulheres e qual a média salarial deles?
 - Qual o nível de escolaridade dos empregados neste setor (indústria calçadista)?
 
-O script criado para fornecer as análises solicitadas foi salvo em @case_1.R
+O script criado para fornecer as análises solicitadas foi salvo em [aqui](https://github.com/fguedes1/Analise-Emprego-Industria-CE/blob/main/case_1.R)
+
