@@ -8,3 +8,5 @@ O projeto constituiu em uma análise de dados do mercado de trabalho formal acer
 
 O script criado para fornecer as análises solicitadas foi salvo em case_1.R e pode ser acessado [aqui](https://github.com/fguedes1/Analise-Emprego-Industria-CE/blob/main/case_1.R)
 
+O relatório resultante da análise pode ser encontrado [aqui](https://github.com/fguedes1/Analise-Emprego-Industria-CE/blob/main/Relat%C3%B3rio%20Ind%C3%BAstria%20Cal%C3%A7adista%20Cear%C3%A1.pdf)
+
